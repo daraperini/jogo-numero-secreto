@@ -6,7 +6,9 @@ Esse projeto foi desenvolvido a partir do curso JavaScript: validações e recon
 
 Caso você queira acabar com o jogo antes de acertar o número, você pode falar "Game Over" que o jogo se encerrará!
 
-Para acessar o resultado final da página, clique [aqui](https://alura-cast-ten-virid.vercel.app/).
+Para acessar o resultado final da página, clique [aqui](https://jogo-numero-secreto-roan-seven.vercel.app/).
+
+*Lembre-se de autorizar o uso do microfone para poder jogar!*
 
 ## Ferramentas utilizadas:
 
