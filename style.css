@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Macondo&display=swap");
+
+:root {
+    --font-family: 'Macondo', cursive;
+    --background-color: #0F2C59;
+    --primary-color: #DAC0A3;
+}
+
+body {
+    background-color: var(--background-color);
+    font-family: var(--font-family);
+    color: var(--primary-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    margin: 0;
+}
+
+.titulo {
+    font-size: 7em;
+}
+
+.regras, .numero-secreto {
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+.mensagem {
+    font-size: 2em;
+    margin-top: 60px;
+}
+
+.box {
+    display: inline-block;
+    font-size: 3.5em;
+    border: 2px solid var(--primary-color);
+    border-radius: 5px;
+    padding: 15px;
+    margin: 30px;
+}
+
+.acertou, .game-over {
+    font-size: 6em;
+}
+
+.btn__jogar {
+    padding: 20px 30px;
+    border: none;
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    font-family: var(--font-family);
+    font-size: 1.5em;
+    border-radius: 5px;
+    margin-top: 50px;
+}
